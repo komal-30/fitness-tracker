@@ -9,3 +9,10 @@ The app offers insights into BMI ranges (underweight, normal, overweight, obese)
 4. *Personalized Coaching:* The app integrates with a fitness coach availability system. Users can check the availability of fitness coaches and book sessions.
 5. *FAQ Section:* The FAQ (Frequently Asked Questions) section provides quick answers to common queries regarding the app's features, usage, and troubleshooting.
 This section helps users easily resolve issues and learn more about the app's capabilities.
+
+<img src="Fitness Tracking App/assets/Main Screen.png" alt="Logo" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="Fitness Tracking App/assets/Trainers.png" alt="Logo" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="Fitness Tracking App/assets/View Information.png" alt="Logo" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="Fitness Tracking App/assets/Contact .png" alt="Logo" style="display: block; margin-left: auto; margin-right: auto;" />
+
+
